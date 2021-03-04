@@ -1,0 +1,75 @@
+h1 {
+  margin: 50px 50px 0px 50px;
+  text-align: center;
+  align-content: center;
+  font-family: 'Comfortaa', cursive; }
+
+#tituloAcerca {
+  margin: 50px 50px 0px 50px;
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+  color: antiquewhite; }
+
+#ultimasNoticias {
+  margin: 10px 50px 0px 50px;
+  text-align: center;
+  color: antiquewhite;
+  font-family: 'Comfortaa', cursive; }
+
+#tituloVideos {
+  margin: 10px 50px 0px 50px;
+  text-align: center;
+  color: antiquewhite;
+  font-family: 'Comfortaa', cursive; }
+
+#tituloPerfilesInteresantes {
+  margin: 10px 50px 0px 50px;
+  text-align: center;
+  color: antiquewhite;
+  font-family: 'Comfortaa', cursive; }
+
+#tituloContactanos {
+  margin: 10px 50px 0px 50px;
+  text-align: center;
+  color: antiquewhite;
+  font-family: 'Comfortaa', cursive; }
+
+.colorDos {
+  font-family: 'Gentium Basic', serif;
+  color: #C19762;
+  font-size: 18px; }
+
+.colorUno {
+  font-family: 'Gentium Basic', serif;
+  color: silver;
+  font-size: 18px;
+  text-align: center;
+ }
+   
+nav.navbar {
+  background-color: #ffffff80;
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 25px;
+  text-decoration: none; }
+
+a.nav-item.nav-link {
+  color: #00366f;
+}
+
+strong {
+  font-family: 'Cabin', sans-serif;
+  color: #094979;
+  font-size: 45px; 
+}
+
+body {
+  background: linear-gradient(150deg, #162447, #1f4068, #1b1b2f, #e43f5a);
+}
+
+.cont-letter-i {
+  margin-top: 20px;
+}
+
+.cont-info-i {
+  text-align: center;
+}
